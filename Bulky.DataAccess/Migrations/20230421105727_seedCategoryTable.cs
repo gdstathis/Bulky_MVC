@@ -1,10 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
-
 #nullable disable
 
 #pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
 
-namespace BulkyWeb.Migrations
+namespace Bulky.DataAccess.Migrations
 {
     /// <inheritdoc />
     public partial class seedCategoryTable : Migration
